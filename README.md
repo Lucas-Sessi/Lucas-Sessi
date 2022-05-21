@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div>
 <a href="https://github.com/Lucas-Sessi">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=algolia&count_private=true&include_all_commits=true">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sessi&layout=compact&theme=algolia&langs_count=9">
+<img height="143em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=algolia&count_private=true&include_all_commits=true">
+<img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sessi&layout=compact&theme=algolia&langs_count=9">
 </div>
