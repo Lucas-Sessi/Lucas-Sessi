@@ -1,19 +1,16 @@
-### Hi there 👋
+<p>
+• Olá! Eu sou o Lucas e estou graduando em Análise e Desenvolvimento de Sistemas, atualmente estou me capacitando na área de "Desenvolvimento Web", especificamente em Front-End. Tenho conhecimento na área de Design Gráfico, UI e UX.
 
-<!--
-**Lucas-Sessi/Lucas-Sessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• A minha experiência no presente momento é apenas com projetos pessoais.
 
-Here are some ideas to get you started:
+• Tecnologias praticadas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+JavaScript
+JQuery
+Git e GitHub
+</p>
 <div>
 <a href="https://github.com/Lucas-Sessi">
 <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=algolia&count_private=true&include_all_commits=true">
