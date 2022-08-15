@@ -5,11 +5,11 @@
 
 • Tecnologias praticadas:
 
-HTML
-CSS
-JavaScript
-JQuery
-Git e GitHub
+HTML,
+CSS,
+JavaScript,
+JQuery,
+Git e GitHub.
 </p>
 <div>
 <a href="https://github.com/Lucas-Sessi">
