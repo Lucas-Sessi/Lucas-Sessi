@@ -13,7 +13,8 @@
 - ExpressJS e Ejs <br/>
 - MongoDB Atlas <br/>
 - Bootstrap e Materialize <br/>
-- Git e GitHub.
+- Git e GitHub <br/>
+- Java.
 
 <div>
 <a href="https://github.com/Lucas-Sessi">
