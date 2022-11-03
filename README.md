@@ -1,19 +1,19 @@
 <p>
-• Olá! Eu sou o Lucas e estou graduando em Análise e Desenvolvimento de Sistemas, atualmente estou me capacitando na área de "Desenvolvimento Web", especificamente em Front-End. Tenho conhecimento na área de Design Gráfico, UI e UX.
+• Olá! Eu sou o Lucas Sessi e estou graduando em Análise e Desenvolvimento de Sistemas, atualmente estou me capacitando na área de "Desenvolvimento Web FullStack".
 
-• A minha experiência no presente momento é apenas com projetos pessoais.
+• A minha experiência no presente momento é apenas com projetos pessoais e acadêmicos.
 
 • Tecnologias praticadas:
 </p>
 
-HTML5
-CSS3
-JavaScript e jQuery
-NodeJS
-ExpressJS e Ejs
-MongoDB Atlas
-Bootstrap e Materialize
-Git e GitHub.
+- HTML5 <br/>
+- CSS3 <br/>
+- JavaScript e jQuery <br/>
+- NodeJS <br/>
+- ExpressJS e Ejs <br/>
+- MongoDB Atlas <br/>
+- Bootstrap e Materialize <br/>
+- Git e GitHub.
 
 <div>
 <a href="https://github.com/Lucas-Sessi">
