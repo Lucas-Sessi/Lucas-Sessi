@@ -14,7 +14,7 @@
 - MongoDB Atlas <br/>
 - Bootstrap e Materialize <br/>
 - Git e GitHub <br/>
-- Java.
+- Java
 
 <div>
 <a href="https://github.com/Lucas-Sessi">
