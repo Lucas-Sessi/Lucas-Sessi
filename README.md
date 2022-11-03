@@ -18,6 +18,6 @@
 
 <div>
 <a href="https://github.com/Lucas-Sessi">
-<img height="143em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=algolia&count_private=true&include_all_commits=true">
-<img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sessi&layout=compact&theme=algolia&langs_count=9">
+<img height="145em" width="calc(100% / 2)" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=algolia&count_private=true&include_all_commits=true">
+<img height="145em" width="calc(100% / 2)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sessi&layout=compact&theme=algolia&langs_count=9">
 </div>
