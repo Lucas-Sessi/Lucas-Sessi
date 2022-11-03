@@ -4,13 +4,17 @@
 • A minha experiência no presente momento é apenas com projetos pessoais.
 
 • Tecnologias praticadas:
-
-HTML,
-CSS,
-JavaScript,
-JQuery,
-Git e GitHub.
 </p>
+
+HTML5
+CSS3
+JavaScript e jQuery
+NodeJS
+ExpressJS e Ejs
+MongoDB Atlas
+Bootstrap e Materialize
+Git e GitHub.
+
 <div>
 <a href="https://github.com/Lucas-Sessi">
 <img height="144em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=algolia&count_private=true&include_all_commits=true">
