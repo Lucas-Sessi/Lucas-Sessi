@@ -9,7 +9,7 @@
     <strong>Sou Desenvolvedor Full Stack em evolução!<strong/> 
   </p>
 
-  <p align="center"> 👉 Atualmente estou trabalhando e estudando com <strong>Node.JS<strong/> para BackEnd e <strong>React.js<strong/>para FrontEnd</p>
+  <p align="center"> 👉 Atualmente estou trabalhando e estudando com <strong>Node.JS<strong/> para BackEnd e <strong>React.js<strong/> para FrontEnd</p>
   
 </div>
 
