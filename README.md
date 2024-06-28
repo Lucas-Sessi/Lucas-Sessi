@@ -9,7 +9,7 @@
     <strong>Sou Desenvolvedor Full Stack em evolução!<strong/> 
   </p>
 
-  <p align="center"> 👉 Atualmente estou estudando e trabalhando com <strong>Node.JS<strong/>, <strong>React.js<strong/>, <strong>Swagger API<strong/>, <strong>SQL<strong/> </p>
+  <p align="center"> 👉 Atualmente estou estudando e trabalhando com <strong>Node.JS<strong/>, <strong>Vue.js<strong/>, <strong>Swagger API<strong/>, <strong>Postgres<strong/> </p>
   
 </div>
 
