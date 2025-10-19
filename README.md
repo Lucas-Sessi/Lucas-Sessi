@@ -9,7 +9,7 @@
     <strong>Sou Desenvolvedor Full Stack!<strong/> 
   </p>
 
-  <p align="center"> 👉 Atualmente estou fazendo pós-graduação em cibersegurança (UFAM) e MBA em Engenharia de Software com I.A. (Full Cycle) e trabalhando com <strong>Node.JS<strong/>, <strong>Nest.JS<strong/>, <strong>Angulars<strong/>, <strong>Postgres<strong/>, <strong>MySQL<strong/> <strong>Python<strong/> <strong>JAVA<strong/> </p>
+  <p align="center"> 👉 Atualmente estou fazendo pós-graduação em cibersegurança (UFAM) e MBA em Engenharia de Software com I.A. (Full Cycle) e trabalhando com <strong>Node.JS<strong/>, <strong>Nest.JS<strong/>, <strong>Angulars<strong/>, <strong>Postgres<strong/>, <strong>MySQL<strong/>, <strong>Python<strong/>, <strong>JAVA<strong/> </p>
   
 </div>
 
