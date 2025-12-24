@@ -18,16 +18,6 @@
 <br>
 
 <div align="center">
-  <h3>📊 Minhas Estatísticas</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sessi&layout=compact&theme=dracula"/>
-  </div>
-</div>
-
-<br>
-
-<div align="center">
   <h3>📫 Onde me encontrar</h3>
   <p>
     <a href="https://www.linkedin.com/in/lucas-sessi/" target="_blank">
