@@ -6,7 +6,12 @@
     🎓 Pós-graduando em <strong>Cibersegurança (UFAM)</strong><br>
     🚀 MBA em <strong>Engenharia de Software com I.A. (Full Cycle)</strong>
   </p>
-
+  
+  <p width="80%">
+    <em>
+    "Sou um Desenvolvedor Full Stack movido por desafios. Atualmente aprofundando meus conhecimentos com um MBA em Engenharia de Software com I.A. e Pós em Cibersegurança, meu foco é criar aplicações seguras, escaláveis e inteligentes. Tenho facilidade em navegar entre o Backend (NestJS, Java, Python) e o Frontend (React, Angular), sempre priorizando as melhores práticas e a qualidade do software. Pronto para impactar projetos desafiadores."
+    </em>
+  </p>
   <br>
 
   <h3>🛠️ Tech Stack</h3>
