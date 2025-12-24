@@ -1,54 +1,43 @@
-<div>
+<div align="center">
+  <h1>Olá, eu sou o Lucas Sessi! 👋</h1>
+  <h3>Desenvolvedor Full Stack</h3>
   
-  <h1 align="center">
-    Oi, Tudo bem? Me chamo
-    <a href="https://www.linkedin.com/in/lucas-sessi/">Lucas Sessi😃️</a>
-  </h1>
-  
-  <p align="center">
-    <strong>Sou Desenvolvedor Full Stack!<strong/> 
+  <p>
+    🎓 Pós-graduando em <strong>Cibersegurança (UFAM)</strong><br>
+    🚀 MBA em <strong>Engenharia de Software com I.A. (Full Cycle)</strong>
   </p>
 
-  <p align="center"> 👉 Atualmente estou fazendo pós-graduação em cibersegurança (UFAM) e MBA em Engenharia de Software com I.A. (Full Cycle). Estou trabalhando com <strong>Node.JS<strong/>, <strong>Nest.JS<strong/>, <strong>Angulars<strong/>, <strong>Postgres<strong/>, <strong>MySQL<strong/>, <strong>Python<strong/>, <strong>JAVA<strong/> </p>
-  
+  <br>
+
+  <h3>🛠️ Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,py,c,js,ts,html,css,angular,react,nodejs,nestjs,postgres,mysql,mongodb,docker,git&perline=8" alt="My Skills" />
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Lucas-Sessi">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sessi&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div><br>
-<p align="center"> 👇 Essas são as Tecnologias que  possuo Conhecimentos: 👇
-  
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Redux" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+<br>
 
- 
-</div><br>
-      <p align = "center">Aqui abaixo estão algumas informações para meu contato: 👇</p>
-      
 <div align="center">
-  <a align="center" href="https://www.linkedin.com/in/lucas-sessi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a align="center" href="mailto:neysessi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a align="center" href="https://www.instagram.com/lucas_sessi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      </div>
+  <h3>📊 Minhas Estatísticas</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Sessi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sessi&layout=compact&theme=dracula"/>
+  </div>
 </div>
 
+<br>
+
 <div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+  <h3>📫 Onde me encontrar</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/lucas-sessi/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="mailto:lucas.sessi.programmer@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/lucas_sessi/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+  </p>
 </div>
-
- 
